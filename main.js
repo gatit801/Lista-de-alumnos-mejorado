@@ -24,4 +24,4 @@ function sorting(){
 }
 
 
-4a 2b+2h 6a 12b                 
+              
